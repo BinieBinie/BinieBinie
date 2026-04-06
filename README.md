@@ -1,34 +1,84 @@
-# 👋 Hi, I'm ninie!
+<h1 align="center">🚀 BinieBinie's Dev Space</h1>
+<h3 align="center">Backend Developer | AI.SW Student</h3>
 
-🎓 AI.SW Student  
-💻 Backend Developer 꿈나무  
-🚀 배우고 성장하는 개발자입니다
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 AI.SW 전공 
+- 💻 백엔드 개발자 목표
+- 📊 데이터 & AI에 관심
+- 🚀 꾸준히 성장하는 개발자
 
 ---
 
 ## 🛠 Tech Stack
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
+
+### ⚙️ Backend & DB
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,mysql" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BinieBinie&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinieBinie&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BinieBinie&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🧠 Projects
+
+| Project | Description | Tech |
+|--------|------------|------|
+| 🔥 Project 1 | 프로젝트 설명 작성 | Python |
+| 🚀 Project 2 | 프로젝트 설명 작성 | Flask |
+| 📊 Project 3 | 프로젝트 설명 작성 | AI / Data |
+
+👉 실제 프로젝트 추가하면 취업용으로 훨씬 좋아짐
 
 ---
 
 ## 📫 Contact
-- Email: your@email.com
-- Blog: https://yourblog.com
+
+<p>
+  📧 Email: your@email.com <br>
+  🌐 Blog: https://yourblog.com
+</p>
 
 ---
 
-## 🔥 About Me
-- 꾸준히 성장하는 개발자
-- 백엔드 개발자를 목표로 공부 중
-- 프로젝트 경험 쌓는 중 🚀
+## 👀 Visitor
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinieBinie&color=blue"/>
+</p>
+
+---
+
+## ⚡ Motto
+> "피할 수 없으면 즐기자."
