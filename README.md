@@ -58,7 +58,11 @@
 
 ## 🧩 Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BAEKJOON_ID)](https://solved.ac/YOUR_BAEKJOON_ID)
+<p align="center">
+  <a href="https://solved.ac/profile/baesubin">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=baesubin"/>
+  </a>
+</p>
 
 ---
 
