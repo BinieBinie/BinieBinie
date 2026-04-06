@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Subin!
+# 👋 Hi, I'm ninie!
 
 🎓 AI.SW Student  
 💻 Backend Developer 꿈나무  
