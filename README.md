@@ -1,42 +1,64 @@
-<h1 align="center">🚀 BinieBinie's Dev Space</h1>
-<h3 align="center">Backend Developer | AI.SW Student</h3>
+<h1 align="center"> BinieBinie's Dev Universe</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Engineer;Security+Enthusiast;Problem+Solver&center=true&size=30&color=58A6FF">
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
+</p>
+
+---
+
+<h3 align="center">💡 "If you can't avoid it, enjoy it."</h3>
+<p align="center">피할 수 없으면 즐기자.</p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 AI.SW 전공
-- 💻 백엔드 개발자 목표
-- 🔐 보안 및 AI 분야에 관심
-- 🚀 프로젝트 기반으로 성장하는 개발자
-- 🏆 중앙동아리 회장 & 전공 랩실 활동
+- 💻 Backend Developer 지향
+- 🔐 Security + AI 융합 기술에 관심
+- 🚀 프로젝트 중심 성장형 개발자
+- 🏆 중앙동아리 회장 & 랩실 연구 경험
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,flask,nodejs,mysql,linux,ubuntu,git,github,vscode" />
 </p>
 
-### ⚙️ Backend / Data / AI
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,mysql" />
-</p>
+---
 
-### 🔐 Security & System
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-</p>
+## 🧠 Projects
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### 🚦 AI 기반 횡단보도 시간 조정 시스템
+- 안내견 이미지 크롤링 → 데이터셋 구축
+- Roboflow 활용 데이터 라벨링
+- 객체 인식 기반 신호 시간 조정 AI 설계
+
+---
+
+### 🔐 악성코드 분석 프로젝트
+- Ubuntu 가상환경 구축
+- 트로이 목마 정적/동적 분석 수행
+- 시스템 행위 분석 및 보안 취약점 평가
+- 타 프로젝트 팀과 협업 보안 점검
+
+---
+
+### 🎭 딥페이크 탐지 AI 애플리케이션
+- AI 기반 영상 판별 시스템 설계
+- 딥페이크 탐지 기능 구현
+- AI 윤리 및 영상 분석 기술 적용
+
+---
+
+## 🧩 Problem Solving
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BAEKJOON_ID)](https://solved.ac/YOUR_BAEKJOON_ID)
 
 ---
 
@@ -49,6 +71,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BinieBinie&theme=tokyonight" />
+</p>
+
+---
+
 ## 📈 Activity Graph
 
 <p align="center">
@@ -57,50 +87,18 @@
 
 ---
 
-## 🧠 Projects
+## 🏆 GitHub Trophy
 
-### 🚦 AI 기반 횡단보도 시간 조정 시스템 (산학협력 프로젝트)
-- 문제: 교통 약자를 고려하지 못한 횡단보도 신호 시간
-- 해결:
-  - 안내견 이미지 데이터 크롤링을 통한 데이터셋 구축
-  - Roboflow를 활용한 데이터 라벨링
-  - AI 모델을 활용한 객체 인식 기반 신호 시간 조정
-- 성과: 실제 환경 적용을 고려한 AI 기반 교통 시스템 설계 경험
-
----
-
-### 🔐 악성코드 분석 및 보안 프로젝트 (전공 소학회)
-- 환경: Ubuntu 기반 가상환경 구축
-- 수행:
-  - 트로이 목마 악성코드 정적 분석 / 동적 분석
-  - 시스템 내 행위 분석 (프로세스, 파일 변화 등)
-- 협업:
-  - 타 프로젝트 팀과 협력하여 보안 취약점 분석
-- 성과: 실제 공격 시나리오 기반 보안 분석 역량 확보
-
----
-
-### 🎭 AI 딥페이크 탐지 애플리케이션
-- 목표: AI 생성 영상(딥페이크) 탐지
-- 수행:
-  - AI 기반 영상 판별 로직 설계
-  - 사용자 친화적인 애플리케이션 구현
-- 성과: AI 윤리 및 영상 분석 기술에 대한 이해 향상
-
----
-
-## 🏆 Experience
-
-- 🏅 중앙동아리 회장 (조직 운영 및 리더십 경험)
-- 🔬 전공 랩실 활동 (연구 및 프로젝트 경험 지속 수행)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BinieBinie&theme=tokyonight&row=1"/>
+</p>
 
 ---
 
 ## 📫 Contact
 
-<p>
-  📧 Email: beasubin05@hs.ac.kr <br>
-  🌐 Blog: -
+<p align="center">
+  📧 beasubin05@hs.ac.kr <br>
 </p>
 
 ---
@@ -108,12 +106,5 @@
 ## 👀 Visitor
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BinieBinie&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=BinieBinie&color=58A6FF"/>
 </p>
-
----
-
-## ⚡ Motto
-> "If you can't avoid it, enjoy it."
-> <br/>
-> 피할 수 없으면 즐기자.
