@@ -127,16 +127,6 @@ role:     중앙동아리 회장 · 학부 연구실 · 학생회
 
 <br>
 
-## 🧩 Problem Solving
-
-<div align="center">
-  <a href="https://solved.ac/profile/baesubin">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=baesubin"/>
-  </a>
-</div>
-
-<br>
-
 ## 📊 Stats
 
 <div align="center">
