@@ -78,22 +78,6 @@ role:     중앙동아리 회장 · 학부 연구실 · 학생회
 <br>
 
 ## 🧠 Projects
-
-<details>
-<summary><b>🚦 AI 기반 횡단보도 신호 시간 조정 시스템</b></summary>
-
-<br>
-
-시각장애인 안내견을 인식해 횡단보도 보행 신호 시간을 자동으로 늘려주는 시스템.
-
-- 안내견 이미지 크롤링으로 자체 데이터셋 구축
-- Roboflow 기반 라벨링 및 데이터 증강
-- 객체 인식 결과를 신호 제어 로직에 연결하는 파이프라인 설계
-
-`Python` `Roboflow` `Object Detection`
-
-</details>
-
 <details>
 <summary><b>🔐 악성코드 분석 프로젝트</b></summary>
 
